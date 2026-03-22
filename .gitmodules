@@ -1,0 +1,3 @@
+[submodule "cote-lapyx"]
+	path = cote-lapyx
+	url = git@github.com:HiljSV/cote-lapyx.git
